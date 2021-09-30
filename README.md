@@ -7,8 +7,8 @@ Olá, seja bem vindo(a), comecei no mundo da TI como desenvolvedor web e hoje (t
 Here are some ideas to get you started:
 -->
 
-- 🔭 Desenvolvo scripts em PHP e faço consultas SQL, modéstia a parte, sou bom nisso  ...
-- 🌱 Atualmente estou tentando aprender mais sobre análise de dados geoespaciais com GeoPandas.
+- 🔭 Desenvolvo scripts em PHP e faço consultas SQL e PL/pgSQL, modéstia a parte, sou bom nisso  ...
+- 🌱 Atualmente estou tentando aprender mais sobre análise de dados geoespaciais com GeoPandas e PostGIS.
 
 <!--
 - 👯 I’m looking to collaborate on ...
